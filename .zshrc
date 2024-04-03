@@ -124,7 +124,7 @@ export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 
 # Aliases alternative programs
-alias ls="exa"
+alias ls="eza"
 alias cat="bat"
 # alias yay="paru"
 alias vi="nvim"
