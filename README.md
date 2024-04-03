@@ -1,6 +1,6 @@
 <div align="center">
 
-# The Wizard's Dotfiles Tome
+# 📖 The Wizard's Dotfiles Tome 📖
 
 <br/>
 
