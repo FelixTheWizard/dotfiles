@@ -1,12 +1,16 @@
+<div align="center">
+
 # Felix The Wizard Presents... Dotfiles!!!
 
-<div align="center">
-![Static Badge](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-</div>
+![Tmux Badge](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+
+![Nvim Badge](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 A dotfile manager to my stuff powered by [Stow](https://www.gnu.org/software/stow/) and intended for the best use of my terminal
 
+</div>
+
+---
 
 ## Instalação
 
@@ -30,6 +34,11 @@ Threre must be some of these [Nerd Fonts](https://www.nerdfonts.com/#home):
 - [tmux](https://github.com/tmux/tmux/wiki)
 - [NeoVim](https://neovim.io/)
 - [Stow](https://www.gnu.org/software/stow/)
+
+### Utilities
+
+- [bat](https://github.com/sharkdp/bat)
+- [eza](https://github.com/eza-community/eza)
 
 ## Running
 
