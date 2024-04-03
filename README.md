@@ -1,14 +1,17 @@
 <div align="center">
 
-# Felix The Wizard Presents... Dotfiles!!!
+# The Wizard's Dotfiles Tome
 
-![Tmux Badge](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+<br/>
 
-![Nvim Badge](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+A dotfiles repository to mantain my terminal stuff and manage the _kitty + zshell + nvim + tmux_ integration
 
-A dotfile manager to my stuff powered by [Stow](https://www.gnu.org/software/stow/) and intended for the best use of my terminal
+<img alt="Static Badge" src="https://img.shields.io/badge/dotfiles_repo-blue?logo=superuser&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/powered_by_stow-snow?logo=gnu&logoColor=black">
 
 </div>
+
+<br/>
 
 ---
 
