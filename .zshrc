@@ -133,6 +133,6 @@ alias glog="git log --oneline --format=format:'%C(bold blue)%h%C(reset) - %C(bol
 
 
 # Start TMUX if not on in already
-[ -n "$TMUX" ] || tmux new-session
+[ -n "$TMUX" ] || tmux
 
 # neofetch
