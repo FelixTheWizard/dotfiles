@@ -23,9 +23,9 @@ As this repo is *system agnostic*, you will need to install each peace presented
 
 Threre must be some of these [Nerd Fonts](https://www.nerdfonts.com/#home):
 
-- [x]  [Cascadia Code](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/CascadiaCode.zip)
+- [ ]  [Cascadia Code](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/CascadiaCode.zip)
 - [ ]  [Fira Code](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/FiraCode.zip)
-- [ ]  [Maple](https://github.com/subframe7536/maple-font/releases/download/v6.4/MapleMono-NF.zip)
+- [x]  [Maple](https://github.com/subframe7536/maple-font/releases/download/v6.4/MapleMono-NF.zip)
 - [ ]  [Ellograph](https://en.bestfonts.pro/fonts_files/601fe8e03e053c23c8b0b459/font.zip)
 - [ ]  [Twilio](https://github.com/twilio/twilio-sans-mono/blob/main/Twilio-Sans-Mono.zip)
 
@@ -45,24 +45,25 @@ Threre must be some of these [Nerd Fonts](https://www.nerdfonts.com/#home):
 
 ## Running
 
-Clone this repo to your `home` folder
+Clone this repo to your `home` folder:
 
 ```bash
   $ git clone https://github.com/FelixTheWizard/dotfiles.git ~/.
 ```
 
-Enter the repo
+Enter the repo:
 
 ```bash
   $ cd dotfiles
 ```
 
-Create the simlinks
+Create the simlinks:
 
 ```bash
   $ stow .
 ```
 
+Open the `kitty terminal` and press `<tmux leader>` + `I` in order to install the `tmux` extensions.
 
 ## Troubleshooting
 
