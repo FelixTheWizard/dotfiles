@@ -52,6 +52,7 @@ This repository comes with Yabai, a tiling window management. If you want suppor
 
 - [bat](https://github.com/sharkdp/bat)
 - [eza](https://github.com/eza-community/eza)
+- [direnv](https://github.com/direnv/direnv)
 
 ## Running
 

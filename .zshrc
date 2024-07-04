@@ -38,3 +38,6 @@ alias glog="git log --oneline --format=format:'%C(bold blue)%h%C(reset) - %C(bol
 alias cl="clear"
 alias qt="exit"
 
+# Allows direnv to create dir specific env variables
+eval "$(direnv hook zsh)"
+export DIRENV_LOG_FORMAT=
