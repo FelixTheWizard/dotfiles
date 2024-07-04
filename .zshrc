@@ -13,6 +13,9 @@ fi
 autoload -U +X compinit && compinit
 autoload -U +X bashcompinit && bashcompinit
 
+# Case insensitive autocompletition
+zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
+
 
 source ~/.config/zsh/themes/powerlevel10k/powerlevel10k.zsh-theme
 
