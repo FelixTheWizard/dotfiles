@@ -10,3 +10,9 @@
 [submodule ".config/tmux/plugins/tpm"]
 	path = .config/tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule ".config/zsh/plugins/zsh-nvm"]
+	path = .config/zsh/plugins/zsh-nvm
+	url = https://github.com/lukechilds/zsh-nvm.git
+[submodule ".config/zsh/plugins/zsh-better-npm-completion"]
+	path = .config/zsh/plugins/zsh-better-npm-completion
+	url = https://github.com/lukechilds/zsh-better-npm-completion.git

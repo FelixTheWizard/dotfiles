@@ -16,17 +16,22 @@ autoload -U +X bashcompinit && bashcompinit
 # Case insensitive autocompletition
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
 
-
-source ~/.config/zsh/themes/powerlevel10k/powerlevel10k.zsh-theme
-
+# Sources the terminal theme
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+source ~/.config/zsh/themes/powerlevel10k/powerlevel10k.zsh-theme
 [[ ! -f ~/.config/zsh/themes/.p10k.zsh ]] || source ~/.config/zsh/themes/.p10k.zsh
 
-# Plugins
+# Configures nvm plugin
+export NVM_AUTO_USE=true
+export NVM_COMPLETION=true
+
+# Loads Plugins
 source ~/.config/zsh/plugins/git.plugin.zsh
 source ~/.config/zsh/plugins/sudo.plugin.zsh
 source ~/.config/zsh/plugins/colorize.plugin.zsh
 source ~/.config/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.config/zsh/plugins/zsh-better-npm-completion/zsh-better-npm-completion.plugin.zsh
+source ~/.config/zsh/plugins/zsh-nvm/zsh-nvm.plugin.zsh
 source ~/.config/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # Aliases alternative programs/commands
