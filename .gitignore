@@ -1,0 +1,8 @@
+# Ignore tmux packeges
+.config/tmux/plugins/**
+!.config/tmux/plugins/tpm/**
+
+# Ignore folder config files
+*/.DS_Store
+
+
